@@ -43,6 +43,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 If you find this template useful, consider donating to help maintain and improve it:
 
 Solana Wallet Address:
-`665NQSovQNvT5k7wYVx5WZATQyoMqjhC8JWWmPTsSeq2`
+`Gn9BGHvWuLpetmG6NCCzdmyEXJYHkDVDZ6wtdmoycA2M`
 
 Any contributions are greatly appreciated! 🙏
