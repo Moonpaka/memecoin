@@ -1,0 +1,2 @@
+# memecoin
+website for memecoin
